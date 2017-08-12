@@ -1,0 +1,1 @@
+[![](https://img.shields.io/badge/Github-parsing-green.svg)](https://github.com/vincentmrlau/react-native-single-image-zoom-viewer)
